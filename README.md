@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 🎓 2nd-year Informatics Engineering student at **Institut Teknologi Bandung**
+- 🎓 3rd-year Informatics Engineering student at **Institut Teknologi Bandung**
 - 💡 Interested in **full-stack development**, **AI**, and **backend engineering**
 - 💬 I enjoy solving real-world problems with code, and I’m currently exploring:
   - 🧱 Backend with Golang, Node.js
